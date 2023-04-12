@@ -4,6 +4,7 @@ The most impressive websites in the world use 3D graphics and animations to brin
 
 # Demo
 
+https://kamoliddinuz.netlify.app/
 
 # Stack
 
